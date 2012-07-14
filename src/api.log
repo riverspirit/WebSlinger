@@ -1,0 +1,64 @@
+[2012-07-13 11:24:00] LOG: POST DATA: Array
+(
+    [event_name] => Test Event From API
+    [event_date] => 2012-07-12 10:11:12
+    [user_type] => business
+    [zip] => 12345
+)
+
+[2012-07-13 11:25:22] LOG: POST DATA: Array
+(
+    [event_name_] => Expo
+    [evnt_date] => 2012-07-20 42:10:00
+    [event_category] => 4
+    [announce_to] => business
+)
+
+[2012-07-13 11:37:57] LOG: POST DATA: Array
+(
+    [event_name_] => exhibition
+    [evnt_date] => 2012-09-20 16:10:00
+    [event_category] => 4
+    [announce_to] => business
+)
+
+[2012-07-13 11:55:16] LOG: POST DATA: Array
+(
+    [event_name] => play
+    [evnt_date] => 2012-08-5 17:5:00
+    [event_category] => 4
+    [announce_to] => business
+)
+
+[2012-07-13 11:56:28] LOG: POST DATA: Array
+(
+    [event_name] => play
+    [evnt_date] => 2012-08-28 29:5:00
+    [event_category] => 4
+    [announce_to] => business
+)
+
+[2012-07-13 11:58:03] LOG: POST DATA: Array
+(
+    [event_name] => play
+    [evnt_date] => 2012-10-28 20:10:00
+    [event_category] => 2
+    [announce_to] => business
+)
+
+[2012-07-13 11:58:44] LOG: POST DATA: Array
+(
+    [event_name] => play
+    [evnt_date] => 2012-10-28 32:10:00
+    [event_category] => 2
+    [announce_to] => business
+)
+
+[2012-07-13 12:02:27] LOG: POST DATA: Array
+(
+    [event_name] => aqua show
+    [event_date] => 2012-07-14 17:30:00
+    [event_category] => 4
+    [announce_to] => network
+)
+
