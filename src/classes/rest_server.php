@@ -68,7 +68,6 @@ class RestServer
         $request_params    = $_SERVER['REQUEST_URI'];
         $request_params    = strstr($request_params, WS_API_BASE_DIR);
         $request_params    = explode(DIRECTORY_SEPARATOR, $request_params);
-        print_r($request_params);die;
         array_shift($request_params);
         
         $return_obj     = new RestServer();
